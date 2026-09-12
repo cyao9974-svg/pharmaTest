@@ -1,0 +1,6 @@
+{
+  "name": "PharmaGuard Bingerville",
+  "description": "Collecte, vérification, géolocalisation et export PDF des pharmacies de garde à Bingerville, Côte d'Ivoire.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
